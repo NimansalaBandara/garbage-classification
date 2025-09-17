@@ -20,7 +20,7 @@ This project explores how deep learning can support smarter waste management by 
 - **Performance**:  
   - Training Accuracy: 99%  
   - Validation Accuracy: 94%  
-  - Testing Accuracy: 93%
+  - Testing Accuracy: 94%
 
 ## 🛠️ Tech Stack
 
