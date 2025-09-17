@@ -1,4 +1,4 @@
-## 🧠 Multi-Class Garbage Classification Using CNN–Transformer Hybrid
+## 🧠 Multi-Class Garbage Classification Using CNN-Transformer Hybrid
 
 ## 🧩 Problem Statement
 
